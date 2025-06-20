@@ -94,27 +94,34 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div>
     </section>
 
-    <!-- Team Section -->
-    <section class="team" id="team">
-        <div class="container">
-            <h2 class="section-title">Meet Our Expert</h2>
-            <div class="team-grid">
-                <div class="team-member">
-                    <div class="member-image">
-                        <img src="assets/images/stylist.jpg" alt="Kay - Master Stylist">
-                        <div class="team-social-links">
-                            <a href="#" class="team-social-link"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#" class="team-social-link"><i class="fab fa-instagram"></i></a>
-                            <a href="#" class="team-social-link"><i class="fab fa-twitter"></i></a>
-                        </div>
-                    </div>
-                    <h3>Kay</h3>
-                    <p class="member-title">Master Stylist</p>
-                    <p class="member-description">Specialized in modern cuts, color transformations, and personalized styling solutions.</p>
-                </div>
-            </div>
+   <!-- Meet Our Expert Section -->
+<section class="expert-section">
+  <div class="container">
+
+    <div class="expert-section-header">
+      <h2>Meet Our Expert</h2>
+    </div>
+
+    <div class="expert-content">
+      <div class="expert-image">
+        <img src="assets/images/stylist.jpg" alt="Kay - Master Stylist">
+      </div>
+      <div class="expert-text">
+        <h3>Kay</h3>
+        <p class="expert-title">Master Stylist</p>
+        <p class="expert-description">Kay is a Master Stylist renowned for precision haircuts and personalized styling for women. Her passion for beauty and attention to detail ensure every client leaves feeling confident and refreshed. From timeless classics to trendsetting looks, she blends creativity with expertise, delivering styles that perfectly suit individual personalities and lifestyles. Her loyal clientele speaks volumes about her talent and dedication.</p>
+        <div class="expert-social-links">
+          <a href="https://www.tiktok.com/@kaynaat.owais?_t=ZM-8wVFpCMMwVh&_r=1" target="_blank" class="expert-social-link"><i class="fa-brands fa-tiktok"></i></a>
+          <a href="https://www.instagram.com/hairs_by_kay?igsh=MTNnejkweDhodGJqOA==" target="_blank" class="expert-social-link"><i class="fab fa-instagram"></i></a>
         </div>
-    </section>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+
 
     <!-- Google Reviews Section -->
     <section class="google-reviews">

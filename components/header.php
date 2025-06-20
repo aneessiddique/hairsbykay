@@ -2,7 +2,7 @@
     <nav class="navbar">
         <div class="logo">
             <a href="index.php">
-                <h1>HairsByKay</h1>
+                <h1><img src="assets/images/LOGO.png" alt=""></h1>
             </a>
         </div>
         
