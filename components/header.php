@@ -1,14 +1,14 @@
 <header class="main-header">
     <nav class="navbar">
         <div class="logo">
-            <a href="index.php">
+            <a href="/">
                 <h1>HairsByKay</h1>
             </a>
         </div>
         
         <div class="nav-center">
             <ul class="nav-links">
-                <li><a href="index.php">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li><a href="about.php">About</a></li>
                 <li><a href="index.php#services" class="services-link">Services</a></li>
                 <li><a href="pricing.php">Pricing</a></li>
