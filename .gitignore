@@ -1,0 +1,25 @@
+# Composer dependencies
+/vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# IDE and editor folders
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# XAMPP specific
+xamppfiles/
+
+# Backup files
+*~
+
+# Other
+.htaccess 
